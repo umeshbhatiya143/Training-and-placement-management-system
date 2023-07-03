@@ -61,6 +61,3 @@ Installs app (installs packages, creates data folders required)
 
 `npm run dev`
 
-### LICENSE
-
-Licensed under `agpl-3.0`
